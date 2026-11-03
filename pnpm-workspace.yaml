@@ -1,0 +1,8 @@
+allowBuilds:
+  msw: true
+
+overrides:
+  "@types/react": "19.1.2"
+  "@types/react-dom": "19.1.2"
+  "postcss@<8.5.23": "^8.5.23"
+  "browserslist@<4.28.7": "^4.28.7"
